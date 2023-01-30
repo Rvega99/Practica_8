@@ -166,11 +166,11 @@ int main(void)
             ///////////////////
             
              OLED_YX( 0, 0 );
-             OLED_Write_String( "OLED SSD1306" );
+             OLED_Write_String( "Practica_8" );
                              Delay_ms(1000);
 
              OLED_YX(1, 0);
-             OLED_Write_String ("TM4C123");
+             OLED_Write_String ("Ya suelteme");
                          Delay_ms(1000);
             
             /////////////////////
